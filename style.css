@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Style+Script&display=swap");
+
+.container-main {
+  height: 100vh;
+  background-color: rgba(231, 245, 245, 0.836);
+  position: relative;
+}
+
+.cloud-img {
+  width: 100px;
+}
+
+.head-img__main {
+  width: 300px;
+}
+
+#body {
+  background-color: aliceblue;
+}
+.cloud-one {
+  position: relative;
+  transform: translate(-300%, 20%);
+}
+.cloud-two {
+  position: relative;
+  transform: translate(300%, 20%);
+}
+
+.heading-img {
+  position: relative;
+  transform: translate(0%, 10%);
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.title-text {
+  font-family: "Style Script", cursive;
+  font-weight: 700;
+  font-size: 4.5rem;
+  color: rgb(108, 99, 255);
+  letter-spacing: 0.3rem;
+  padding-top: 20px;
+}
+
+.description {
+  color: rgba(107, 99, 255, 0.671);
+  margin-top: -5px;
+}
