@@ -14,9 +14,6 @@
   width: 300px;
 }
 
-#body {
-  background-color: aliceblue;
-}
 .cloud-one {
   position: relative;
   transform: translate(-300%, 20%);
@@ -46,5 +43,53 @@
 
 .description {
   color: rgba(107, 99, 255, 0.671);
-  margin-top: -5px;
+  margin-top: -10px;
+}
+
+.container-body {
+  margin: 0 auto;
+}
+
+.profile-img {
+  width: 100px;
+}
+
+.body-text__topic {
+  color: rgba(107, 99, 255, 0.836);
+  margin-top: 10px;
+}
+
+.intro {
+  padding-bottom: 50px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+hr {
+  border: 10px dotted rgba(107, 99, 255, 0.836);
+  border-bottom: none;
+  width: 6%;
+  margin: 0 auto;
+}
+
+.skill-topic {
+  padding-top: 10rem;
+  padding-bottom: 8rem;
+}
+.skill-img {
+  width: 300px;
+}
+
+.skill-description {
+  width: 60%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.skill-text {
+  margin-left: 5px;
+}
+
+.skill-img__two {
+  padding-right: 180px;
 }
