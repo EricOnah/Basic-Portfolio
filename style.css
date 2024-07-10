@@ -124,12 +124,10 @@ hr {
   }
 
   .cloud-one {
-    margin: 0;
     position: relative;
     transform: translate(-100%, 20%);
   }
   .cloud-two {
-    margin: 0;
     position: relative;
     transform: translate(100%, 20%);
   }
