@@ -164,6 +164,6 @@ hr {
   }
   .cloud-two {
     position: relative;
-    transform: translate(50%, 5%);
+    transform: translate(50%, 20%);
   }
 }
