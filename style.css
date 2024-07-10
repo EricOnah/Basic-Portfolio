@@ -137,7 +137,7 @@ hr {
   }
   .heading-img {
     position: relative;
-    transform: translate(0%, 40%);
+    transform: translate(0%, 50%);
   }
   hr {
     width: 10%;
@@ -151,10 +151,19 @@ hr {
 
   .skill-img__two {
     padding-right: 0;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid green;
   }
 
   .skill-img {
     width: 200px;
+  }
+
+  .cloud-one {
+    position: relative;
+    transform: translate(-50%, 5%);
+  }
+  .cloud-two {
+    position: relative;
+    transform: translate(50%, 5%);
   }
 }
