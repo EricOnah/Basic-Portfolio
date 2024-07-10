@@ -151,7 +151,7 @@ hr {
 
   .skill-img__two {
     padding-right: 0;
-    border-bottom: 2px solid green;
+    border-bottom: 2px solid rgb(227, 243, 7);
   }
 
   .skill-img {
@@ -160,7 +160,7 @@ hr {
 
   .cloud-one {
     position: relative;
-    transform: translate(-50%, 5%);
+    transform: translate(-50%, -30%);
   }
   .cloud-two {
     position: relative;
