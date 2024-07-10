@@ -108,7 +108,6 @@ hr {
 
 @media (max-width: 900px) {
   #head {
-    height: 110vh;
     width: 100%;
   }
   .title-text {
