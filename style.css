@@ -93,3 +93,70 @@ hr {
 .skill-img__two {
   padding-right: 180px;
 }
+
+.contact-btn {
+  font-size: 1.4rem;
+  color: #fff;
+  background-color: rgba(107, 99, 255, 0.836);
+  border: none;
+  text-transform: uppercase;
+}
+
+.footer {
+  background-color: rgba(107, 99, 255, 0.836);
+}
+
+@media (max-width: 900px) {
+  #head {
+    height: 110vh;
+    width: 100%;
+  }
+  .title-text {
+    font-family: "Style Script", cursive;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: rgb(108, 99, 255);
+    letter-spacing: 0.2rem;
+    padding-top: 10px;
+  }
+
+  .cloud-img {
+    width: 80px;
+  }
+
+  .cloud-one {
+    margin: 0;
+    position: relative;
+    transform: translate(-100%, 20%);
+  }
+  .cloud-two {
+    margin: 0;
+    position: relative;
+    transform: translate(100%, 20%);
+  }
+
+  .head-img__main {
+    width: 300px;
+  }
+  .heading-img {
+    position: relative;
+    transform: translate(0%, 40%);
+  }
+  hr {
+    width: 10%;
+  }
+}
+
+@media (max-width: 700px) {
+  .skill-description {
+    flex-direction: column;
+  }
+
+  .skill-img__two {
+    padding-right: 0;
+  }
+
+  .skill-img {
+    width: 150px;
+  }
+}
